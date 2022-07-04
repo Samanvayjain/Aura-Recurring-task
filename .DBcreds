@@ -1,0 +1,9 @@
+##This is a secure file to store creds for DB service. Passwords will be rotated every 24 hours to keep them secure.
+
+##USE OF THESE CREDENTIALS IS LOGGED. USE THEM WISELY.##
+
+[postgresDB-user]
+username=sfdc-postgres-user-samanvay.jain
+password=c2FtYW52YXkuamFpbisyMDIyLTA1LTE5OjIyOjQ5OjUzK3NqYWluLWx0bS5pbnRlcm5hbC5zYWxlc2ZvcmNlLmNvbV96ZDRNZ0dodmMxUDMK
+hostname=ec2-35-166-64-39.us-west-2.compute.amazonaws.com
+

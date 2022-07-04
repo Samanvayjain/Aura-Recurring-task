@@ -1,0 +1,32 @@
+Mar 01, 2021 11:32:18 AM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.15.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home
+ - VM Version : 15.0.2+7-27
+ - Git cb5fba5 - [maven-release-plugin] prepare release 0.15.0
+Mar 01, 2021 11:35:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 63
+Mar 01, 2021 11:39:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+Mar 01, 2021 11:58:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 129
+Mar 01, 2021 12:13:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+Mar 01, 2021 12:17:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 181
+Mar 01, 2021 12:17:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 187
+Mar 01, 2021 12:21:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 217
+Mar 01, 2021 12:21:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 222
+Mar 01, 2021 12:25:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 249
+Mar 01, 2021 2:23:38 PM org.eclipse.lemminx.XMLLanguageServer initialize
+INFO: Initializing XML Language server
+LemMinX Server info:
+ - Version : 0.15.0
+ - Java : /Library/Java/JavaVirtualMachines/jdk-15.0.2.jdk/Contents/Home
+ - VM Version : 15.0.2+7-27
+ - Git cb5fba5 - [maven-release-plugin] prepare release 0.15.0

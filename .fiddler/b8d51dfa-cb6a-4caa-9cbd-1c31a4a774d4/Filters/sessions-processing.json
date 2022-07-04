@@ -1,0 +1,66 @@
+{
+  "77777777-7777-7777-7777-777777777777": {
+    "ClientSideState": "{\"skip\":0,\"take\":92,\"sort\":[{\"dir\":\"asc\",\"field\":\"url\"}],\"filter\":{\"logic\":\"and\",\"filters\":[]}}",
+    "GridFilters": null,
+    "GridSorting": [
+      {
+        "Member": "url",
+        "SortDirection": 0,
+        "SortCompare": null
+      }
+    ],
+    "AdvancedFilters": {
+      "FiltersPerSource": null,
+      "RequestHeadersFilters": [],
+      "ResponseHeadersFilters": []
+    },
+    "Search": {
+      "Text": null
+    }
+  },
+  "6793a50c-52f6-449c-9099-5681c635294c": {
+    "ClientSideState": "'undefined'",
+    "GridFilters": [],
+    "GridSorting": [],
+    "AdvancedFilters": {
+      "FiltersPerSource": null,
+      "RequestHeadersFilters": [],
+      "ResponseHeadersFilters": []
+    },
+    "Search": {
+      "Text": null
+    }
+  },
+  "0737961b-cb02-4327-861c-98f05b3d2185": {
+    "ClientSideState": "'undefined'",
+    "GridFilters": [],
+    "GridSorting": [],
+    "AdvancedFilters": {
+      "FiltersPerSource": null,
+      "RequestHeadersFilters": [],
+      "ResponseHeadersFilters": []
+    },
+    "Search": {
+      "Text": null
+    }
+  },
+  "1b955a2b-0f74-4e53-90e9-d386f800ac94": {
+    "ClientSideState": "{\"skip\":0,\"take\":92,\"sort\":[{\"dir\":\"asc\",\"field\":\"id\"}],\"filter\":{\"logic\":\"and\",\"filters\":[]}}",
+    "GridFilters": null,
+    "GridSorting": [
+      {
+        "Member": "id",
+        "SortDirection": 0,
+        "SortCompare": null
+      }
+    ],
+    "AdvancedFilters": {
+      "FiltersPerSource": null,
+      "RequestHeadersFilters": [],
+      "ResponseHeadersFilters": []
+    },
+    "Search": {
+      "Text": null
+    }
+  }
+}

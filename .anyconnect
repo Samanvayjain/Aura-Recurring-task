@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnyConnectPreferences>
+<DefaultUser>samanvay.jain</DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint>84FCD5BC47ECEF8FED84E69B54D9065FEC66B2F3</ClientCertificateThumbprint>
+<MultipleClientCertificateThumbprints></MultipleClientCertificateThumbprints>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHostName>APAC-IND</DefaultHostName>
+<DefaultHostAddress></DefaultHostAddress>
+<DefaultGroup></DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType>hardware</SDITokenType>
+<ControllablePreferences>
+<EnableAutomaticServerSelection>false</EnableAutomaticServerSelection>
+<BlockUntrustedServers>true</BlockUntrustedServers>
+<DisableCaptivePortalDetection>false</DisableCaptivePortalDetection></ControllablePreferences>
+</AnyConnectPreferences>

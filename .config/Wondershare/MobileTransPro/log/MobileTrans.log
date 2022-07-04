@@ -1,0 +1,334 @@
+03/31/2021 11:49:32 
+03/31/2021 11:49:32 ===============================================
+03/31/2021 11:49:32 Program.Start Product=MobileTrans, Version=1.1.3.56
+03/31/2021 11:49:32 Operating System: Unix 19.6.0.0
+03/31/2021 11:49:32 Friendly Version: MaxOSX OS64Bits
+03/31/2021 11:49:32 Language: English (India)
+03/31/2021 11:49:32 ProcessorCount: 16
+03/31/2021 11:49:32 iTunesVersion:0.0
+03/31/2021 11:49:32 end load languages.
+03/31/2021 11:49:32 Screen WorkingArea: 1792_1015
+03/31/2021 11:49:32 Program.InitCustomize
+03/31/2021 11:49:32 end Init Customize.
+03/31/2021 11:49:32 end Init GA.
+03/31/2021 11:49:32 Init register module
+03/31/2021 11:49:32 end Init Register Module.
+03/31/2021 11:49:32 Start WAF...
+03/31/2021 11:49:35 end Start WAF.
+03/31/2021 11:49:35 end Init BugSplat.
+03/31/2021 11:49:35 end Init Environment.
+03/31/2021 11:49:35 ====MT===Record App version: 2.19.360======
+03/31/2021 11:49:35 <OnlineRatingSwitchHelper> 1
+03/31/2021 11:49:35 Program.Run
+03/31/2021 11:49:35 /Users/.Android
+03/31/2021 11:49:35 RegisterUSBDevicesNotify handle:140307377346880
+03/31/2021 11:49:35 MacMonitorTask start=============================
+03/31/2021 11:49:35 Add device: 0000000000000000
+03/31/2021 11:49:35 ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBVHCIBCE@80000000/Apple T2 Controller@80100000
+03/31/2021 11:49:35 AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBVHCIBCE@80000000/Apple T2 Controller@80100000
+03/31/2021 11:49:35 begin load...
+03/31/2021 11:49:35 end load...
+03/31/2021 11:49:36 <OnlineRatingSwitchHelper> 2
+03/31/2021 11:49:36 <OnlineRatingSwitchHelper> 3
+03/31/2021 11:49:36 Read device database error:System.Data.SQLite.SQLiteException (0x80004005): SQLite error
+no such table: t_deviceinfo
+  at System.Data.SQLite.SQLite3.Prepare (System.Data.SQLite.SQLiteConnection cnn, System.String strSql, System.Data.SQLite.SQLiteStatement previous, System.UInt32 timeoutMS, System.String& strRemain) [0x00236] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteCommand.BuildNextCommand () [0x000eb] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteCommand.GetStatement (System.Int32 index) [0x0000b] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteCommand.GetStatement(int)
+  at System.Data.SQLite.SQLiteDataReader.NextResult () [0x000db] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteDataReader..ctor (System.Data.SQLite.SQLiteCommand cmd, System.Data.CommandBehavior behave) [0x00051] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at (wrapper remoting-invoke-with-check) System.Data.SQLite.SQLiteDataReader..ctor(System.Data.SQLite.SQLiteCommand,System.Data.CommandBehavior)
+  at System.Data.SQLite.SQLiteCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x00006] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.SQLite.SQLiteCommand.ExecuteDbDataReader (System.Data.CommandBehavior behavior) [0x00000] in <11ca4cdea1f442cc9806e1ea6da122b4>:0 
+  at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader (System.Data.CommandBehavior behavior) [0x00000] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at System.Data.Common.DbDataAdapter.FillInternal (System.Data.DataSet dataset, System.Data.DataTable[] datatables, System.Int32 startRecord, System.Int32 maxRecords, System.String srcTable, System.Data.IDbCommand command, System.Data.CommandBehavior behavior) [0x0003f] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at System.Data.Common.DbDataAdapter.Fill (System.Data.DataTable[] dataTables, System.Int32 startRecord, System.Int32 maxRecords, System.Data.IDbCommand command, System.Data.CommandBehavior behavior) [0x0007c] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at System.Data.Common.DbDataAdapter.Fill (System.Data.DataTable dataTable) [0x00034] in <d9067a07a82148d1800232c0302a3e4e>:0 
+  at (wrapper remoting-invoke-with-check) System.Data.Common.DbDataAdapter.Fill(System.Data.DataTable)
+  at jn+b.e () [0x0007f] in <e123607a3da84d8cabac9dda204cabef>:0 
+  at jn.p (System.String A_0, System.Data.SQLite.SQLiteParameter[] A_1) [0x00044] in <e123607a3da84d8cabac9dda204cabef>:0 
+  at jn.h (System.String A_0) [0x0003c] in <e123607a3da84d8cabac9dda204cabef>:0 
+  at aec.a (ady A_0) [0x00158] in <974b12222465444d935fb9d17e2a93cd>:0 
+03/31/2021 11:49:36 Screen WorkingArea: 1015
+03/31/2021 11:49:36 Start check ad link
+03/31/2021 11:49:36 CheckAD: System.UriFormatException: Invalid URI: The URI is empty.
+  at System.Uri.CreateThis (System.String uri, System.Boolean dontEscape, System.UriKind uriKind) [0x0007b] in <cea77d7bab8b472da697a3b6e78ef65f>:0 
+  at System.Uri..ctor (System.String uriString) [0x00014] in <cea77d7bab8b472da697a3b6e78ef65f>:0 
+  at System.Net.WebRequest.Create (System.String requestUriString) [0x0000e] in <cea77d7bab8b472da697a3b6e78ef65f>:0 
+  at WMM.UI.Main.TransferMainForm.a (fx A_0) [0x00075] in <bc68fc42511e4ec29f3f8df3fece8a58>:0 
+03/31/2021 11:49:36 ConnectionScanTask start
+03/31/2021 11:49:36 ConnectionScanTask rescan start
+03/31/2021 11:49:36 ConnectionScanTask rescan end
+03/31/2021 11:49:36 ConnectionScanTask End
+03/31/2021 11:49:36 Error
+03/31/2021 11:49:36 <Main> Scan Failed: 0
+03/31/2021 11:49:37 <IsSwitchOpen> start parsing json...
+03/31/2021 11:49:37 <IsSwitchOpen> str:{"code":200,"status":"off"}
+03/31/2021 11:49:39 Download Driver DB Ok, Version=4.0.1428646627
+03/31/2021 11:49:39 Replace DriverDb Ok
+03/31/2021 11:49:52 [MainControl]SourceControl set
+03/31/2021 11:49:52 [MainControl]DestControl set
+03/31/2021 11:50:10 Add device: 0000803000014C911A7A402E
+03/31/2021 11:50:10 ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14300000
+03/31/2021 11:50:10 AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14300000
+03/31/2021 11:50:10 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14300000, iOS, 0000803000014C911A7A402E)
+03/31/2021 11:50:10 Connection inserter Start
+03/31/2021 11:50:10 Connection inserter create new device
+03/31/2021 11:50:10 Connection inserter device is iOS
+03/31/2021 11:50:10 Connection inserter AddService
+03/31/2021 11:50:10 Device manager add device SerialNumber: 0000803000014C911A7A402E
+03/31/2021 11:50:10 Connection begin IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14300000
+03/31/2021 11:50:10 [DC_UsbTask] try connect, Times: 1
+03/31/2021 11:50:10 [DC_IOSCOT] Initialize ios start.
+03/31/2021 11:50:10 [DC_Listener] DoCheckService result: True
+03/31/2021 11:50:10 [DC_IOSCOT] Initialize, ios service running
+03/31/2021 11:50:10 Connection step Checking
+03/31/2021 11:50:10 [DC_UsbTask] start wait system installing.
+03/31/2021 11:50:10 [DC_UsbTask] end wait system installing.
+03/31/2021 11:50:10 [DC_UsbTask] start wait FindExpectInterface
+03/31/2021 11:50:10 [DC_UsbTask] end wait FindExpectInterface.
+03/31/2021 11:50:10 [DC_UsbTask] start PrepareCheck.
+03/31/2021 11:50:10 [DC_UsbTask] end PrepareCheck.
+03/31/2021 11:50:10 [DC_UsbTask] start GetConnectTask
+03/31/2021 11:50:10 [DC-BSCOT] BC-DoConnection enter..
+03/31/2021 11:50:10 [DC-BSCOT] BC-GetWaitReadyTask skip..
+03/31/2021 11:50:10 [DC-BSCOT] BC-GetWaitReadyTask enter..
+03/31/2021 11:50:10 [DC-BSCOT] BC-WaitReadyWorker enter..
+03/31/2021 11:50:10 Connection step WaitReady
+03/31/2021 11:50:10 [DC_IOSCOT]DoWaitReady Start
+03/31/2021 11:50:10 [DC_IOSCOT] DoWaitReady before WaitDriverInstallDone
+03/31/2021 11:50:10 [DC_IOSCOT] DoWaitReady End WaitDriverInstallDone
+03/31/2021 11:50:10 [DC_IOSCOT] DoWaitReady before InitService
+03/31/2021 11:50:10 [DC_IOSCOT]InitService began
+03/31/2021 11:50:10 [DC_IOSCOT] Initialize ios start.
+03/31/2021 11:50:10 [DC_Listener] DoCheckService result: True
+03/31/2021 11:50:10 [DC_IOSCOT] Initialize, ios service running
+03/31/2021 11:50:10 [DC_IOSCOT] DoWaitReady end InitService
+03/31/2021 11:50:10 [DC_IOSCOT] start listen and wait.
+03/31/2021 11:50:10 [DC_IOSCOT] wait ready STEP_1
+03/31/2021 11:50:11 [DC_IOSCOT] service_listen: True
+03/31/2021 11:50:11 [DC_IOSCOT] wait ready STEP_2
+03/31/2021 11:50:11 Download apple name file path is: /Users/samanvay.jain/.config/Wondershare/MobileTransPro/Drivers/AppleiOSNames.plist
+03/31/2021 11:50:11 start update apple name file
+03/31/2021 11:50:11 Old apple name path is: /Applications/MobileTrans.app/Contents/Resources/Drivers/AppleiOSNames.plist
+03/31/2021 11:50:11 Start download apple name file
+03/31/2021 11:50:11 DownloadFile completed
+03/31/2021 11:50:11 end update apple name file
+03/31/2021 11:50:11 Download apple name file success 
+03/31/2021 11:50:11 [DC_Listener] NotificationWaitHandles wait event: 00008030-00014C911A7A402E
+03/31/2021 11:50:11 [DC_IOSCOT] wait_device: True
+03/31/2021 11:50:11 [DC_IOSCOT] listen and wait both ok.
+03/31/2021 11:50:11 [DC_IOSCOT]InitService began
+03/31/2021 11:50:11 [DC_IOSCOT] Initialize ios start.
+03/31/2021 11:50:11 [DC_Listener] DoCheckService result: True
+03/31/2021 11:50:11 [DC_IOSCOT] Initialize, ios service running
+03/31/2021 11:50:11 [DC_IOSCOT]DoWaitReady End DeviceListener 
+03/31/2021 11:50:11 [DC_IOSCOT] start WaitReady Task
+03/31/2021 11:50:11 WaitReadyTask start
+03/31/2021 11:50:11 WaitReadyState AllReady
+03/31/2021 11:50:11 Before WaitReady
+03/31/2021 11:50:11 Start WaitReady
+03/31/2021 11:50:11 Before HavePairedRecord
+03/31/2021 11:50:11 Before CheckEscrow
+03/31/2021 11:50:11 ERROR: failed to read pair record for device: 0000803000014C911A7A402E
+03/31/2021 11:50:11 After CheckEscrow: MissingPairRecord
+03/31/2021 11:50:11 Before WaitPaired
+03/31/2021 11:50:11 Lockdown PairRecord is null, start create
+03/31/2021 11:50:12 Connection step NeedUnlock
+03/31/2021 11:50:20 After WaitPaired
+03/31/2021 11:50:20 Connection step Ready
+03/31/2021 11:50:20 ConnectionScanTask start
+03/31/2021 11:50:20 ConnectionScanTask End
+03/31/2021 11:50:20 [DC_IOSCOT]DoWaitReady End
+03/31/2021 11:50:20 [DC-BSCOT] BC-GetWaitReadyTask result: c
+03/31/2021 11:50:20 Connection step StartSession
+03/31/2021 11:50:20 Connection step LoadInfo
+03/31/2021 11:50:20 Download apple name file path is: /Users/samanvay.jain/.config/Wondershare/MobileTransPro/Drivers/AppleiOSNames.plist
+03/31/2021 11:50:20 start update apple name file
+03/31/2021 11:50:20 Old apple name path is: /Applications/MobileTrans.app/Contents/Resources/Drivers/AppleiOSNames.plist
+03/31/2021 11:50:20 end update apple name file
+03/31/2021 11:50:20 Download apple name file success 
+03/31/2021 11:50:20 Connection step Finished
+03/31/2021 11:50:20 [DC_UsbTask] end GetConnectTask : True
+03/31/2021 11:50:20 Manufacturer:Apple Inc.
+03/31/2021 11:50:20 Model:iPhone 11
+03/31/2021 11:50:20 SerialNumber:DX3F1TX7N736
+03/31/2021 11:50:20 OSPlatform:iOS
+03/31/2021 11:50:20 OSVersion:14.3
+03/31/2021 11:50:20 Carrier:
+03/31/2021 11:50:20 Name:iPhone
+03/31/2021 11:50:20 Locale:en_IN
+03/31/2021 11:50:20 Connection end IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14300000 Online
+03/31/2021 11:50:20 Connection step Completed
+03/31/2021 11:50:20 [MainControl]OnSourceDeviceConnected begin 
+03/31/2021 11:50:20 [MainControl]OnSourceDeviceConnected end
+03/31/2021 11:50:24 Copy /iTunes_Control/Artwork/ArtworkDB to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/PlayCounts.plist.cig to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/Ringtones.plist to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/VoiceMemos.plist to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/iTunesCDB to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/iTunesControl to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/iTunesPrefs to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/iTunesPrefs.plist to device success.
+03/31/2021 11:50:24 Copy /iTunes_Control/iTunes/iTunesSyncDeletes.plist to device success.
+03/31/2021 11:50:24 Transfer load estimating info failure.
+03/31/2021 11:50:24 Transfer storage size:
+03/31/2021 11:50:24 Estimating remaining time:00:01:19.2910000
+03/31/2021 11:50:24 <BaseConnectControl> SafeLoadStatStepChanged: SpaceNeed
+03/31/2021 11:50:24 <BaseConnectControl> SafeLoadStatStepChanged: CheckBackupPassword
+03/31/2021 11:50:29 <BaseConnectControl> SafeLoadStatStepChanged: CheckBackupPassword
+03/31/2021 11:50:29 Ringtones.plist error: <?xml version="1.0" encoding="utf-16"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict />
+</plist>
+03/31/2021 11:50:29 'Purchases/Ringtones.plist' not exists
+03/31/2021 11:50:29 Transfer load Ringtones Success, count:0, size:0 B
+03/31/2021 11:50:29 iPhone VoiceMemosManager Begin Load
+03/31/2021 11:50:29 <IOS_Recording> iPhone Count:0 VoiceMemosManager End Load
+03/31/2021 11:50:29 Transfer load VoiceMemos Success, count:0, size:0 B
+03/31/2021 11:50:29 iPhone PhotoManage Begin Load
+03/31/2021 11:50:29 Favorite Begin Load
+03/31/2021 11:50:29 iPhone PhotoManage End Load
+03/31/2021 11:50:29 Transfer load Photos Success, count:0, size:0 B
+03/31/2021 11:50:29 iPhone MusicManage Begin Load
+03/31/2021 11:50:29 <IOS_Muisc> OnLoadWorker iPhone Count:0 MusicManage End Load
+03/31/2021 11:50:29 Transfer load Music Success, count:0, size:0 B
+03/31/2021 11:50:29 iPhone VideoManage Begin Load
+03/31/2021 11:50:29 iPhone VideoManage End Load
+03/31/2021 11:50:29 Transfer load Videos Success, count:0, size:0 B
+03/31/2021 11:50:30 Transfer load Apps Success, count:4, size:20.68 MiB
+03/31/2021 11:51:01 <BaseConnectControl> SafeLoadStatStepChanged: Backup
+03/31/2021 11:51:01 Build Mbdb Start
+03/31/2021 11:51:01 Build Mbdb Finished.
+03/31/2021 11:51:01 Backup path is: /Users/samanvay.jain/.config/Wondershare/MobileTransPro/iOSBackup/00008030-00014C911A7A402E
+03/31/2021 11:51:01 <BaseConnectControl> SafeLoadStatStepChanged: Backup
+03/31/2021 11:51:01 Backup begin
+03/31/2021 11:51:01 Backup error code: 212
+03/31/2021 11:51:01 Error description: Unable to backup until Setup is finished (MBErrorDomain/212)
+03/31/2021 11:51:01 Backup begin
+03/31/2021 11:51:02 Backup error code: 212
+03/31/2021 11:51:02 Error description: Unable to backup until Setup is finished (MBErrorDomain/212)
+03/31/2021 11:51:02 <BaseConnectControl> SafeLoadStatStepChanged: BackupResult
+03/31/2021 11:51:02 Backup Failure completed, total 0 files 0 B received, 0 files 0 B saved, with time:00:00:01.3242540
+03/31/2021 11:51:02 errorCode:212, errorText:Unable to backup until Setup is finished (MBErrorDomain/212)
+03/31/2021 11:51:02 Transfer load Reminders Failure, count:0, size:-1 B
+03/31/2021 11:51:02 Transfer load SoundSetting Failure, count:0, size:0 B
+03/31/2021 11:51:02 Transfer load BlockedNumber Success, count:0, size:0 B
+03/31/2021 11:51:02 Transfer load AddressBoook Failure, count:0, size:-1 B
+03/31/2021 11:51:02 Transfer load Voicemail Failure, count:0, size:0 B
+03/31/2021 11:51:02 Transfer load Wallpaper Failure, count:0, size:0 B
+03/31/2021 11:51:02 Transfer load AlarmClock Failure, count:0, size:-1 B
+03/31/2021 11:51:02 Transfer load Calendar Failure, count:0, size:-1 B
+03/31/2021 11:51:02 Transfer load Notes Failure, count:0, size:0 B
+03/31/2021 11:51:02 Transfer load Messages Failure, count:0, size:0 B
+03/31/2021 11:51:02 <BaseConnectControl> SafeLoadStatStepChanged: Backup
+03/31/2021 11:51:03 Transfer load BrowserMark Success, count:0, size:0 B
+03/31/2021 11:51:03 Transfer load Failure, totalCount:4, totalSize:20.68 MiB, with time:00:00:42.2684510
+03/31/2021 11:51:03 Transfer load Failure, totalCount:4, totalSize:20.68 MiB, with time:00:00:42.2684510
+03/31/2021 11:52:57 [MainControl]SourceControl set
+03/31/2021 11:52:57 [MainControl]DestControl set
+03/31/2021 11:52:57 [MainControl]OnSourceDeviceConnected begin 
+03/31/2021 11:52:57 [MainControl]OnSourceDeviceConnected end
+03/31/2021 11:52:58 Transfer load no backup content, files:0, size:0 B
+03/31/2021 11:52:58 Estimating remaining time:00:00:10
+03/31/2021 11:52:58 Transfer load Success, totalCount:4, totalSize:20.68 MiB, with time:00:00:00.1088430
+03/31/2021 11:52:58 Transfer AddressBoook estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer BlockedNumber estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer CallHistory estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer load Success, totalCount:4, totalSize:20.68 MiB, with time:00:00:00.1088430
+03/31/2021 11:52:58 Transfer AddressBoook estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer BlockedNumber estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer CallHistory estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer load no backup content, files:0, size:0 B
+03/31/2021 11:52:58 Estimating remaining time:00:00:10
+03/31/2021 11:52:58 Transfer load Success, totalCount:4, totalSize:20.68 MiB, with time:00:00:00.0007830
+03/31/2021 11:52:58 Transfer AddressBoook estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer BlockedNumber estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer CallHistory estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer load Success, totalCount:4, totalSize:20.68 MiB, with time:00:00:00.0007830
+03/31/2021 11:52:58 Transfer AddressBoook estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer BlockedNumber estimating remaining time:00:00:00
+03/31/2021 11:52:58 Transfer CallHistory estimating remaining time:unknown
+03/31/2021 11:52:58 Transfer estimating remaining time:unknown
+03/31/2021 11:53:27 [MainControl]DestControl set
+03/31/2021 11:53:27 [MainControl]SourceControl set
+03/31/2021 11:55:50 Add device: 001000001
+03/31/2021 11:55:50 ConnectionHub OnDeviceArrival:IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000
+03/31/2021 11:55:50 AddUSBConnection device: IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000
+03/31/2021 11:55:51 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000, Android, 001000001)
+03/31/2021 11:55:51 Connection inserter Start
+03/31/2021 11:55:51 Connection inserter create new device
+03/31/2021 11:55:51 Connection inserter device is Android
+03/31/2021 11:55:51 Connection inserter AddService
+03/31/2021 11:55:51 Device manager add device SerialNumber: 001000001
+03/31/2021 11:55:51 Connection begin IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000
+03/31/2021 11:55:51 [DC_UsbTask] try connect, Times: 1
+03/31/2021 11:55:51 * daemon started successfully
+03/31/2021 11:55:51 <DC-AndroidCOT> Initialize Result: True
+03/31/2021 11:55:51 Connection step Checking
+03/31/2021 11:55:51 [DC_UsbTask] start wait system installing.
+03/31/2021 11:55:51 [DC_UsbTask] end wait system installing.
+03/31/2021 11:55:51 [DC_UsbTask] start wait FindExpectInterface
+03/31/2021 11:55:51 [DC_UsbTask] end wait FindExpectInterface.
+03/31/2021 11:55:51 [DC_UsbTask] start PrepareCheck.
+03/31/2021 11:55:51 [DC_UsbTask] end PrepareCheck.
+03/31/2021 11:55:51 [DC_UsbTask] usbconnecttask NeedDebuggingMode
+03/31/2021 11:55:51 [DC-BSCOT] BC-GetWaitReadyTask enter..
+03/31/2021 11:55:51 [DC-BSCOT] BC-WaitReadyWorker enter..
+03/31/2021 11:55:51 Connection step WaitReady
+03/31/2021 11:55:51 Connection step NeedDebuggingMode
+03/31/2021 11:56:03 Connection end IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000 NeedDebuggingMode
+03/31/2021 11:56:03 OnDeviceConnectError:cancel
+03/31/2021 11:56:54 Connection begin IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000
+03/31/2021 11:56:54 [DC_UsbTask] try connect, Times: 1
+03/31/2021 11:56:54 * daemon started successfully
+03/31/2021 11:56:54 <DC-AndroidCOT> Initialize Result: True
+03/31/2021 11:56:54 Connection step Checking
+03/31/2021 11:56:54 [DC_UsbTask] start wait system installing.
+03/31/2021 11:56:54 [DC_UsbTask] end wait system installing.
+03/31/2021 11:56:54 [DC_UsbTask] start wait FindExpectInterface
+03/31/2021 11:56:54 [DC_UsbTask] end wait FindExpectInterface.
+03/31/2021 11:56:54 [DC_UsbTask] start PrepareCheck.
+03/31/2021 11:56:54 [DC_UsbTask] end PrepareCheck.
+03/31/2021 11:56:54 [DC_UsbTask] usbconnecttask NeedDebuggingMode
+03/31/2021 11:56:54 [DC-BSCOT] BC-GetWaitReadyTask enter..
+03/31/2021 11:56:54 [DC-BSCOT] BC-WaitReadyWorker enter..
+03/31/2021 11:56:54 Connection step WaitReady
+03/31/2021 11:56:54 Connection step NeedDebuggingMode
+03/31/2021 11:57:21 Connection end IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000 NeedDebuggingMode
+03/31/2021 11:57:21 OnDeviceConnectError:cancel
+03/31/2021 11:57:33 Connection begin IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000
+03/31/2021 11:57:33 [DC_UsbTask] try connect, Times: 1
+03/31/2021 11:57:33 * daemon started successfully
+03/31/2021 11:57:33 <DC-AndroidCOT> Initialize Result: True
+03/31/2021 11:57:33 Connection step Checking
+03/31/2021 11:57:33 [DC_UsbTask] start wait system installing.
+03/31/2021 11:57:33 [DC_UsbTask] end wait system installing.
+03/31/2021 11:57:33 [DC_UsbTask] start wait FindExpectInterface
+03/31/2021 11:57:34 [DC_UsbTask] end wait FindExpectInterface.
+03/31/2021 11:57:34 [DC_UsbTask] start PrepareCheck.
+03/31/2021 11:57:34 [DC_UsbTask] end PrepareCheck.
+03/31/2021 11:57:34 [DC_UsbTask] usbconnecttask NeedDebuggingMode
+03/31/2021 11:57:34 [DC-BSCOT] BC-GetWaitReadyTask enter..
+03/31/2021 11:57:34 [DC-BSCOT] BC-WaitReadyWorker enter..
+03/31/2021 11:57:34 Connection step WaitReady
+03/31/2021 11:57:34 Connection step NeedDebuggingMode
+03/31/2021 11:57:36 Connection end IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000 NeedDebuggingMode
+03/31/2021 11:57:36 OnDeviceConnectError:cancel
+03/31/2021 11:58:36 Device manager remove device SerialNumber: 001000001
+03/31/2021 11:58:36 Connection IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@01000000/USB 10/100/1000 LAN@01210000 disposed.
+03/31/2021 11:58:36 Device manager remove device SerialNumber: DX3F1TX7N736
+03/31/2021 11:58:36 Connection IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14300000 disposed.
+03/31/2021 11:58:36 Transfer clear cache dir /Users/samanvay.jain/.config/Wondershare/MobileTransPro/iOSBackup
+03/31/2021 11:58:36 ok
+03/31/2021 11:58:36 Transfer clear cache dir /Users/samanvay.jain/.config/Wondershare/MobileTransPro/iOSRestore
+03/31/2021 11:58:36 ok
+03/31/2021 11:58:36 Transfer clear cache dir /Users/samanvay.jain/.config/Wondershare/MobileTransPro/DrFoneRecovery
+03/31/2021 11:58:36 ok
+03/31/2021 11:58:36 Transfer clear cache dir /Users/samanvay.jain/.config/Wondershare/MobileTransPro/iOSTemp
+03/31/2021 11:58:36 ok

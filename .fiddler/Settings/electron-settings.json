@@ -1,0 +1,22 @@
+{
+  "autoUpdateSettings": {
+    "downloadedUpdateVersion": "3.0.1"
+  },
+  "firstUsage": "Mon, 15 Feb 2021 18:11:45 GMT",
+  "firstUsageOfVersion": {
+    "date": "Thu, 11 Nov 2021 21:35:09 GMT",
+    "version": "2.2.0"
+  },
+  "firstSignUp": "Fri, 24 Sep 2021 21:06:16 GMT",
+  "lastLogs": 1643141159737,
+  "firstSignIn": "Fri, 24 Sep 2021 21:06:19 GMT",
+  "windowsState": {
+    "main": {
+      "x": -1,
+      "y": 26,
+      "width": 1792,
+      "height": 1004,
+      "isMaximized": true
+    }
+  }
+}
